@@ -1,11 +1,9 @@
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PHP, Laravel, and WordPress projects at Bitcraftx, focusing on full-stack web development.
 - 🌱 I’m currently learning advanced Machine Learning techniques, with a special interest in NLP and deep learning models.
 - 👯 I’m looking to collaborate on AI/ML and web development projects.
 - 🤔 I’m looking for help with publishing research articles and getting AI/ML, Web development projects.
 - 💬 Web Development, Machine Learning, Deep Learning, and Data Visualization.
-- 📫 How to reach me: tuc4373@gmail.com
+- 📫 How to reach me: tuc4373@gmail.com & https://www.linkedin.com/in/talhaumar4373/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a huge fan of gaming and love exploring new tech innovations in my free time.
 <!--
