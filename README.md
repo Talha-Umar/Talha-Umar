@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on AI/ML and web development projects.
 - 🤔 I’m looking for help with publishing research articles and getting AI/ML, Web development projects.
 - 💬 Web Development, Machine Learning, Deep Learning, and Data Visualization.
-- 📫 How to reach me: tuc4373@gmail.com & https://www.linkedin.com/in/talhaumar4373/
+- 📫 How to reach me: tuc4373@gmail.com & https://www.linkedin.com/in/talhaumardev/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a huge fan of gaming and love exploring new tech innovations in my free time.
 <!--
